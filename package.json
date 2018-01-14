@@ -14,6 +14,7 @@
   },
   "dependencies": {
     "netlify-cms": "^0.7.6",
+    "nuxt-netlify-cms": "^2.0.1",
     "nuxt": "latest",
     "nuxtent": "latest",
     "@nuxtjs/axios": "^4.5.0"
@@ -29,7 +30,6 @@
     "eslint-plugin-promise": "^3.5.0",
     "eslint-plugin-standard": "^3.0.1",
     "node-sass": "^4.7.2",
-    "nuxt-netlify-cms": "^2.0.1",
     "sass-loader": "^6.0.6"
   }
 }
