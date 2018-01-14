@@ -13,7 +13,7 @@
     "precommit": "npm run lint"
   },
   "dependencies": {
-    "netlify-cms": "^0.7.6",
+    "netlify-cms": "^1.0.3",
     "nuxt-netlify-cms": "^2.0.1",
     "nuxt": "latest",
     "nuxtent": "latest",
